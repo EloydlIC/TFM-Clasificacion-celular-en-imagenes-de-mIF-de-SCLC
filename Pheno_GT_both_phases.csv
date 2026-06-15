@@ -1,0 +1,10 @@
+Phase,,,CD16,CD8a,CD68,Ki_67,CD163,CD3,CD274,Synaptophysin,Chromogranin_A,FoxP3,INSM1sc-271408,HLA_DR,CD4,CD11b,Pan_Cytokeratin,Actin,CD31
+Lineage,All,Lymphoid,,,,,,pos,,,,,,,,,,,
+Lineage,All,Macrophage,,,pos,,,,,,,,,,,,,,
+Lineage,All,Tumour,,,,,,,,,,,anypos,,,,anypos,,
+Lineage,Lymphoid,T_cell,,allneg,,,,,,,,,,,allneg,,,,
+Lineage,Lymphoid,T_cytotoxic,,allpos,,,,,,,,,,,allneg,,,,
+Lineage,Lymphoid,CD4_T_cell,,allneg,,,,,,,,,,,allpos,,,,
+Lineage,Lymphoid,T_double,,allpos,,,,,,,,,,,allpos,,,,
+State,CD4_T_cell,Treg,,,,,,,,,,allpos,,,,,,,
+State,CD4_T_cell,T_helper,,,,,,,,,,allneg,,,,,,,

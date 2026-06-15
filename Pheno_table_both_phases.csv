@@ -1,0 +1,17 @@
+Phase,,,CD8a,CD68,Ki_67,CD163,CD3,CD274,Chromogranin_A,FoxP3,INSM1sc-271408,HLA_DR,CD4,CD11b,Pan_Cytokeratin,Actin,CD31
+Lineage,All,Lymphoid,,,,,pos,,,,,,,,,,
+Lineage,All,Myeloid,,anypos,,,,,,,,,,anypos,,,
+Lineage,All,Stroma,,,,,,,,,,,,,,anypos,anypos
+Lineage,All,Tumour,,,,,,,anypos,,anypos,,,,anypos,,
+Lineage,Lymphoid,T_cytotoxic,pos,,,,,,,,,,neg,,,,
+Lineage,Lymphoid,CD4_T_cell,neg,,,,,,,,,,pos,,,,
+Lineage,Myeloid,Monocyte,,,,,,,,,,,,pos,,,
+Lineage,Myeloid,Macrophage,,pos,,,,,,,,,,,,,
+Lineage,Macrophage,M1_Macrophage,,,,neg,,,,,,pos,,,,,
+Lineage,Macrophage,M2_Macrophage,,,,pos,,,,,,neg,,,,,
+Lineage,Stroma,Endothelial,,,,,,,,,,,,,,,pos
+Lineage,Stroma,Fibroblast,,,,,,,,,,,,,,pos,
+State,CD4_T_cell,T_reg,,,,,,,,pos,,,,,,,
+State,CD4_T_cell,T_helper,,,,,,,,neg,,,,,,,
+State,Tumour,Proliferative_Tumour,,,pos,,,,,,,,,,,,
+State,Tumour,Non_Proliferative_Tumour,,,neg,,,,,,,,,,,,
